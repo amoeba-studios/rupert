@@ -1,0 +1,2 @@
+# rupert
+Slack automation bot
